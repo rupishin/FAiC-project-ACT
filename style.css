@@ -1,0 +1,35 @@
+body{
+  background-color: #ffe6ee;
+}
+h1{
+  color:green;
+  text-align:center;
+  font-family: 'Nanum Pen Script';
+  font-size: 60px;
+  font-weight: bold;
+}
+
+
+
+h3{
+  color:#7a0099;
+  text-align: left;
+  font-family: 'Nanum Pen Script';
+  font-size: 40px;
+  font-weight: bold;
+  padding-bottom: 0px;
+}
+
+
+th{
+  color: purple;
+  font-family: 'Nanum Pen Script';
+  font-size: 30px;
+}
+
+p{padding-left: 20px;
+padding-top: 0px}
+a{padding-left: 20px;}
+.intro{
+  padding-left: 0px;
+}
